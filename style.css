@@ -25,15 +25,15 @@ body {
 }
 
 #circle {
-	width: 310px;
+	/*width: 310px;*/
 	float: left;
 	background: #2c2d4a;
-	border-radius: 1000px;
-	padding: 13px 2px 7px 13px;
+	border-radius: 19px;
+	padding: 10px 10px 7px 10px;
 }
 .me {
 	max-width: 300px;
-	border-radius: 1000px;
+	border-radius: 10px;
 }
 
 #text {
